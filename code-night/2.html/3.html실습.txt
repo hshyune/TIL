@@ -1,0 +1,14 @@
+의미론적인 웹 Semantic Web
+XHTML
+HTML5
+
+<nav>
+...
+</nav>
+
+라고 정의하면 내부의 리스트가 navigation이라는 것을 기계가 인지할 수 있음
+
+<header></header>
+<article></article>
+
+대문페이지 index.html
